@@ -1,0 +1,17 @@
+{
+  "id": 123,
+  "name": "Evgeny",
+  "age": 36,
+  "salary": "3000 EUR",
+  "permanent": true,
+  "address": "Lisbon, Adolfo Suaresh, 91",
+  "phoneNumbers": [
+    123456,
+    987654
+  ],
+  "role": "Java Automation QA",
+  "cities": [
+    "Lisbon",
+    "Alicante"
+  ]
+}
